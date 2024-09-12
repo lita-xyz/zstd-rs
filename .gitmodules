@@ -1,3 +1,4 @@
 [submodule "zstd-safe/zstd-sys/zstd"]
 	path = zstd-safe/zstd-sys/zstd
-	url = https://github.com/facebook/zstd
+  url = https://github.com/lita-xyz/zstd.git
+  branch = 1.5.6-delendum
